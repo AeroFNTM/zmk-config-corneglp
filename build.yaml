@@ -20,4 +20,4 @@
 ---
 include:
   -board: nice_nano_v2
-   shield: CorneGLP
+   shield: corne_glp_left, corne_glp_right
