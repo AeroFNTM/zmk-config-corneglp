@@ -54,6 +54,8 @@
             label = "TD_QUEST";
             #binding-cells = <0>;
             bindings = <&kp COMMA>, <&kp QUESTION>;
+
+            tapping-term-ms = <200>;
         };
     };
 
